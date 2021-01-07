@@ -1,4 +1,4 @@
-"# 100-days-of-code" 
+# 100-days-of-code 
 
 ## If you've decided to join:
 
